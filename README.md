@@ -6,4 +6,8 @@
 
 Use of machine learning to determine whether human users will make positive or negative tweets about ChatGPT.  Sentiment analysis models used to classify tweets as either positive or negative.
 
+## Overview
+
+<img width="885" alt="Screenshot 2023-04-13 at 1 21 14 pm" src="https://user-images.githubusercontent.com/119761709/231640557-5c462799-ea7c-4b1d-bee3-ff16f201449d.png">
+
 
