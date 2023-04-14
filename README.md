@@ -20,4 +20,8 @@ Multiple sentiment models were evaluated to determing if a tweet was positive or
 
 ## Model Summary and evaluation
 
-XXXXX
+Models used were balanced random forest and AdaBoost.  Results of these are below:
+
+<img width="493" alt="Screenshot 2023-04-14 at 2 52 10 pm" src="https://user-images.githubusercontent.com/119761709/231947394-ff613fca-0e2a-4e3d-8c55-7976ff487962.png">
+
+<img width="468" alt="Screenshot 2023-04-14 at 2 52 37 pm" src="https://user-images.githubusercontent.com/119761709/231947408-c812c778-32e6-4b13-bc69-7d4035e1cd38.png">
